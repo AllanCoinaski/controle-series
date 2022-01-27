@@ -1,5 +1,4 @@
--> Projeto de controle de séries com temporadas e episódios assistidos.
--> Desenvolvido para fixar alguns conhecimentos em Laravel como:
+* Projeto de controle de séries com temporadas e episódios assistidos, desenvolvido para fixar alguns conhecimentos em Laravel como:
 * Model
 * Migrations
 * CRUD
